@@ -225,22 +225,3 @@
 **Acceptance Criteria:**  
 1. Admin can select groups (e.g. beginners, active users).  
 2. Notifications only reach selected group.  
-
-## Exercise 11: Additional Examples (Optional)
-
-### Social App Example
-- As a user, I want to connect with peers for support so that I can stay motivated.  
-- As an admin, I want to moderate shared posts so that the community remains respectful.  
-
-### Health Tracking Example
-- As a user, I want to set a weekly drink goal so that I can track reduction over time.  
-- As a doctor, I want to receive patient reports automatically so that I can monitor progress.  
-
-
-## Summary of Key Points
-
-- **User roles:** regular users, new users, and admins.  
-- **Structure:** As a [user], I want to [action], so that [benefit].  
-- Each feature maps directly to the implemented app.  
-- Includes persistent data, settings, notifications, and Supabase-ready API stories.
-
